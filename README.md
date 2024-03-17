@@ -1,0 +1,1 @@
+For this project I created a Java program that utilized the HashMap class to analyze a provided text file and count the occurrences of each word. I utlized the Java Scanner class to read in the text file word by word.
